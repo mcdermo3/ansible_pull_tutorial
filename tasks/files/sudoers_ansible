@@ -1,3 +1,3 @@
 ansible ALL=(ALL) NOPASSWD: ALL
-Defaults: ansible mail_always
+Defaults: parallels mail_always
 Defaults mailto="mcdermo3@buffalo.edu"
